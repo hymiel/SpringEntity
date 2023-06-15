@@ -3,7 +3,7 @@ package com.sparta.entity;
 import jakarta.persistence.*;
 
 @Entity // JPA가 관리할 수 있는 Entity 클래스 지정
-@Table(name = "memo") // 매핑할 테이블의 이름을 지정
+@Table(name = "memo") // 매핑할 테이블의 이름을 지정함
 public class Memo {
     @Id
     private Long id;
