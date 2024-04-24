@@ -1,4 +1,6 @@
 # SpringEntity
 
 
-내일배움캠프 스프링 강의 실습
+Entity
+
+영속성 컨텍스트
